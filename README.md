@@ -1,4 +1,4 @@
-# Protokoll1
+# Protokol1
 ## Thema: Einführung zur Verwendung von GitHub
 
 Name: Patrick Wegl  
